@@ -17,11 +17,6 @@ class basic{
         int b = sc.nextInt();
 
         System.out.print("The GCD of " + a + " & " + b + " is " +  gcd(a,b));
-
-    
-
-
-
-        
+     
     }
 }
