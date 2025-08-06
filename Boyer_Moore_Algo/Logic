@@ -1,0 +1,2 @@
+Boyer-Moore Voting Algorithm.
+It works because the majority element appears more than n/2 times, ensuring it will not be eliminated during the process.
